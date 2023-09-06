@@ -10,3 +10,5 @@ if app.is_palindrome( 'dog' ):
     print('Test failed')
 else:
     print( 'Test passed' )
+
+print('hello')
