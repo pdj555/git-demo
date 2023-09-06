@@ -4,4 +4,3 @@ def is_palindrome(string):
         return True
     return False
 
-print('hello')
